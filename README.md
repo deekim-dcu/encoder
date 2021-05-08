@@ -29,8 +29,8 @@ Encrypted string : JILNIVALNTUMEZ
 # Point
 ## friend
 
-클래스의 friend 선언을 하면 직접 private 멤버 접근 가능
+friend : private mamber can be accessed
 
 ## operator overloading
 
-operator 키워드 : 기호를 나타내는 연산자의 기능을 재지정하는 함수 선언
+operator keyword : customize an operator to call a user defined function
