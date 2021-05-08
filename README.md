@@ -25,3 +25,12 @@ String : adsfBADFANSDFLMEWR
  --> Input uppercase only, [f] would be ignored
 Encrypted string : JILNIVALNTUMEZ
 ```
+
+# Point
+## friend
+
+클래스의 friend 선언을 하면 직접 private 멤버 접근 가능
+
+## operator overloading
+
+operator 키워드 : 기호를 나타내는 연산자의 기능을 재지정하는 함수 선언
